@@ -1,7 +1,8 @@
 .git_blog{
-    border: 20px solid rebeccapurple;
+    border: 5px solid rebeccapurple;
+    padding: 20px;
     margin: 20px;
     border-radius: 20px;
     box-shadow: 5px 10px 10px red;
-    text-align: right;
+    text-align: justify;
 }
